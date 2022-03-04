@@ -335,10 +335,11 @@ h1,h2,h3,h4,h5
 	
 #contact .contact-title
     {
-	 
+	 	
 		font-size: 24px;
 		font-weight: bold;
         padding-bottom: 20px;
+	    text-align: center;
 		color: #ffffff;
     }
 #contact .fa
