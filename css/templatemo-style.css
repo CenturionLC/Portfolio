@@ -329,19 +329,13 @@ h1,h2,h3,h4,h5
 
 #contact address
     {
-	    top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
+	text-align: center;
       padding-bottom: 18px;
     }
 	
 #contact .contact-title
     {
-	    top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
+	 
 		font-size: 24px;
 		font-weight: bold;
         padding-bottom: 20px;
@@ -349,10 +343,7 @@ h1,h2,h3,h4,h5
     }
 #contact .fa
     {
-	    top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
+	   
         border: 2px solid #ffffff;
         border-radius: 50%;
         color: #D43F52;
@@ -364,10 +355,7 @@ h1,h2,h3,h4,h5
     }
 #contact .form-control
     {
-	    top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
+	    
         background: transparent;
         border: 2px solid #999;
         border-radius: 0;
