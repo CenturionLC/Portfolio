@@ -1,8 +1,8 @@
 /*
 
-Lavish HTML CSS Template
+Lavish HTML CSS 
 
-https://templatemo.com/tm-458-lavish
+
 		
 */
 
@@ -329,6 +329,10 @@ h1,h2,h3,h4,h5
 
 #contact address
     {
+	    top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
       padding-bottom: 18px;
     }
 	
